@@ -21,6 +21,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.3",
     "@auth/prisma-adapter": "^2.7.2",
     "@clerk/nextjs": "^6.11.3",
     "@prisma/client": "^5.14.0",
